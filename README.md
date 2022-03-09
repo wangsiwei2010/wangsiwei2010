@@ -8,7 +8,7 @@
 
 -->
 
-### We have published several papaers in those highly-recommended journals/conferences (TPAMI/TKDE/TIP/TNNLS/AAAI/IJCAI). We are looking for more!
+### We have published several papaers in those highly-recommended journals/conferences (TPAMI/ICML/CVPR/ICCV/MM/TKDE/TIP/TNNLS/TMM/AAAI/IJCAI). We are looking for more!
 
 <!--
 **wangsiwei2010/wangsiwei2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
